@@ -1,0 +1,9 @@
+yt-dlp
+faster-whisper
+ffmpeg-python
+opencv-python
+moviepy
+gradio
+mediapipe
+numpy
+pandas
